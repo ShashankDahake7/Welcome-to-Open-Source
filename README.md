@@ -997,6 +997,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Rajith Lahiru</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/ShashankDahake7">
+                    <img src="https://avatars.githubusercontent.com/u/119002734?v=4" width="100px;" alt="Dhruv Kotwani"/>
+                    <br />
+                    <sub><b>Shashank Dahake</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/yenper">
                     <img src="https://avatars.githubusercontent.com/u/86003362?v=4" width="100px;" alt="Aradhna Abraham"/>

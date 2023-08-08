@@ -999,7 +999,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
              <td align="center">
                 <a href="https://github.com/ShashankDahake7">
-                    <img src="https://avatars.githubusercontent.com/u/119002734?v=4" width="100px;" alt="Dhruv Kotwani"/>
+                    <img src="https://avatars.githubusercontent.com/u/119002734?v=4" width="100px;" alt="Shashank Dahake"/>
                     <br />
                     <sub><b>Shashank Dahake</b></sub>
                 </a>
